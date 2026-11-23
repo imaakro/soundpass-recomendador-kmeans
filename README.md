@@ -23,7 +23,7 @@ más afines, con un porcentaje de afinidad.
 
 ## Demostración
 
-🔗 **App desplegada:** _pendiente (Streamlit Community Cloud)_ <!-- reemplazar por la URL https://....streamlit.app -->
+🔗 **App desplegada:** [Abrir en Streamlit Community Cloud](https://soundpass-recomendador-kmeans-kfdrxbm2mro49tlgerydxy.streamlit.app/)
 
 Capturas de la prueba local en [`docs/evidencias/`](docs/evidencias/).
 
