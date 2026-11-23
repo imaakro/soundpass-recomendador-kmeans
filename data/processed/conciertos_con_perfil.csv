@@ -1,0 +1,25 @@
+id_concierto,artista,nombre_evento,ciudad,lugar,fecha,precio_desde_cop,genero_principal,pc1,pc2,cluster,perfil
+1,KAROL G,Tropicoqueta Tour,Medellín,Estadio Atanasio Girardot,2027-03-13,280000,latin,-0.0001490435431196202,0.12229468129549825,0,Bailable y alegre
+2,J Balvin,Rayo World Tour,Bogotá,Estadio El Campín,2027-04-03,250000,latin,-0.11694636583897233,0.14479150145285768,0,Bailable y alegre
+3,Maluma,Don Juan Tour,Medellín,La Macarena,2027-02-20,220000,latin,-0.09103646326424142,0.23864168045341605,0,Bailable y alegre
+4,Shakira,Las Mujeres Ya No Lloran Tour,Barranquilla,Estadio Metropolitano,2027-05-08,300000,latin,-0.04121632088180682,0.2216636056691148,0,Bailable y alegre
+5,Carlos Vives,Gira El Rock de Mi Pueblo,Santa Marta,Estadio Sierra Nevada,2027-06-12,180000,latin,-0.19642959708758656,0.09844563653833016,0,Bailable y alegre
+6,Daddy Yankee,La Última Vuelta Revival,Bogotá,Movistar Arena,2027-03-27,320000,latin,-0.20978542738808015,0.17191720921773956,0,Bailable y alegre
+7,Ed Sheeran,Mathematics Tour,Bogotá,Vive Claro Distrito Cultural,2027-07-17,350000,pop,0.06682530547101195,0.11744002236615902,0,Bailable y alegre
+8,Bruno Mars,24K Magic Live,Bogotá,Estadio El Campín,2027-08-21,380000,pop,-0.11225358504727301,0.12109577447217579,0,Bailable y alegre
+9,Billie Eilish,Hit Me Hard and Soft Tour,Bogotá,Movistar Arena,2027-04-24,330000,r&b,0.626936494401973,0.04711551337884334,1,Tranquilo y acústico
+10,Daniel Caesar,Never Enough Tour,Bogotá,Teatro Colsubsidio,2027-05-15,190000,r&b,0.6068905790909644,0.05700658701633832,1,Tranquilo y acústico
+11,Frank Ocean,Blonde Nights,Medellín,Teatro Metropolitano,2027-09-04,260000,r&b,0.45882625160023144,0.09656387947448453,1,Tranquilo y acústico
+12,Lewis Capaldi,Broken By Desire Tour,Bogotá,Teatro Royal Center,2027-06-26,210000,pop,0.3538796741477829,0.026308190182967595,1,Tranquilo y acústico
+13,ROSALÍA,Lux Tour,Bogotá,Movistar Arena,2027-10-09,290000,r&b,0.3462107978734783,0.22474288130774212,1,Tranquilo y acústico
+14,Alejandro Sanz,Sanz en Vivo,Cali,Arena Cañaveralejo,2027-03-06,200000,latin,0.16727907954293303,0.08747826391680458,1,Tranquilo y acústico
+15,Martin Garrix,Garrix Live,Bogotá,Coliseo MedPlus,2027-02-27,240000,edm,-0.025803624456580465,-0.3093809602807837,2,Intenso y enérgico
+16,David Guetta,Monolith Tour,Medellín,Plaza Mayor,2027-04-17,230000,edm,-0.08910430487682619,-0.1341158550720084,2,Intenso y enérgico
+17,Guns N' Roses,Because What You Want and What You Get Are Two Different Things Tour,Bogotá,Estadio El Campín,2027-11-13,400000,rock,-0.08458721546991155,-0.24760806735521262,2,Intenso y enérgico
+18,Metallica,M72 World Tour,Bogotá,Vive Claro Distrito Cultural,2027-12-04,420000,rock,-0.0890938292581751,-0.21436911340803283,2,Intenso y enérgico
+19,Foo Fighters,Everything or Nothing at All Tour,Bogotá,Coliseo MedPlus,2027-09-25,310000,rock,-0.03815496866841428,-0.22809027245705038,2,Intenso y enérgico
+20,Coldplay,Music of the Spheres,Bogotá,Estadio El Campín,2027-10-23,450000,rock,0.19313262894700406,-0.22213720259946407,2,Intenso y enérgico
+21,Soda Stereo,Gracias Totales Homenaje,Medellín,La Macarena,2027-05-29,170000,rock,-0.0426131007236471,-0.2422149003415685,2,Intenso y enérgico
+22,The Weeknd,After Hours til Dawn,Bogotá,Estadio El Campín,2027-08-07,360000,r&b,0.17134357239146414,-0.09721748746771713,2,Intenso y enérgico
+23,Imagine Dragons,Loom World Tour,Cali,Estadio Pascual Guerrero,2027-07-03,270000,pop,0.009837856950966839,-0.09327902361604318,2,Intenso y enérgico
+24,Drake,Anita Max Wynn Tour,Medellín,Estadio Atanasio Girardot,2027-11-27,390000,rap,0.10364249770732509,-0.07592735433795217,2,Intenso y enérgico

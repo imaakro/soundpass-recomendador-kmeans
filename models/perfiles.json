@@ -1,0 +1,14 @@
+{
+  "0": {
+    "nombre": "Bailable y alegre",
+    "descripcion": "Te gusta la música para bailar y que suena positiva: reguetón, pop latino, vallenato moderno, pop bailable."
+  },
+  "1": {
+    "nombre": "Tranquilo y acústico",
+    "descripcion": "Prefieres canciones suaves, con guitarra, piano o voz: baladas, R&B lento, indie y pop acústico."
+  },
+  "2": {
+    "nombre": "Intenso y enérgico",
+    "descripcion": "Te gusta la música con fuerza y volumen, más oscura que alegre: rock, electrónica, rap con mucha energía."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "k": 3,
+  "varianza_pca": 0.777,
+  "silueta_train": 0.423,
+  "silueta_test": 0.423,
+  "davies_bouldin_train": 0.8,
+  "davies_bouldin_test": 0.799,
+  "calinski_harabasz_train": 20404.91,
+  "calinski_harabasz_test": 5217.183
+}
