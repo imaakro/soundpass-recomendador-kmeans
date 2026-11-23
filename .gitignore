@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secretos y configuración local
+.env
+.streamlit/secrets.toml
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Modelos grandes (los nuestros pesan < 100 KB y sí se suben)
+*.h5
+models/*_grande.pkl
