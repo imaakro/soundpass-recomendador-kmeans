@@ -91,7 +91,7 @@ música latina en *Bailable y alegre*.
 ### Pasos
 
 ```bash
-git clone https://github.com/USUARIO/soundpass-recomendador-kmeans.git
+git clone https://github.com/imaakro/soundpass-recomendador-kmeans.git
 cd soundpass-recomendador-kmeans
 python -m venv venv
 # Windows: venv\Scripts\activate   ·   Linux/Mac: source venv/bin/activate
